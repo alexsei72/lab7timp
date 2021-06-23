@@ -1,0 +1,29 @@
+C:\MVS\UserSerialization\App\bin\Debug\App.exe.config
+C:\MVS\UserSerialization\App\bin\Debug\App.exe
+C:\MVS\UserSerialization\App\bin\Debug\App.pdb
+C:\MVS\UserSerialization\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\MVS\UserSerialization\App\obj\Debug\App.Form1.resources
+C:\MVS\UserSerialization\App\obj\Debug\App.Properties.Resources.resources
+C:\MVS\UserSerialization\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\MVS\UserSerialization\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\MVS\UserSerialization\App\obj\Debug\App.exe
+C:\MVS\UserSerialization\App\obj\Debug\App.pdb
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\bin\Debug\App.exe.config
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\bin\Debug\App.exe
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\bin\Debug\App.pdb
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.Form1.resources
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.Properties.Resources.resources
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.exe
+D:\Личные\24.07.1984 - Сидоров Антон Юрьевич\Тюменский ГУ курс 2 - 01.09.2020 - июнь 2021\01.03.2021 - Технологии и методы программирования\08.06.2021 - Практика (ЛР 6, 7)\UserSerialization\App\obj\Debug\App.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\bin\Debug\App.exe.config
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\bin\Debug\App.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\bin\Debug\App.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.Form1.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\7 - UserSerialization\App\obj\Debug\App.pdb
